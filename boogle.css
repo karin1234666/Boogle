@@ -1,0 +1,133 @@
+
+.header{
+    text-align: right;
+    margin: auto;
+    padding: 17px;
+}
+
+.header a{
+    margin: 10px;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: grey;
+}
+
+.napis{
+    text-align: center;
+    font-family: Arial;
+    font-size: 45px;
+}
+
+.search{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    width: 200px;
+    display: table;
+}
+
+.B{
+    color: #4285f4;
+}
+.o1{
+    color: #ea4335;
+}
+.o2{
+    color: #fbbc05;
+}
+.l{
+    color: #34a853;
+}
+
+input{
+    position: relative;
+    display: block;
+    margin : 0 auto;
+    height: 35px;
+    width: 500px;
+}
+
+.gumbi{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.gumb{
+    background-color: #F1F1F1;
+    border: none;
+    color: #757575;
+    font-family: Arial;
+    font-size: 13px;
+    line-height: 27px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+    height: 36px;
+}
+
+
+.container{
+    background-color: #F1F1F1;
+    height: 80px;
+    width: 100%;
+    position: relative;
+    bottom: -40px;
+    right: 0;
+    left: -6px;
+}
+
+.linki-desno{
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+.linki-levo{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+
+}
+
+.linki-desno a{
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #757575;
+    text-decoration: none;
+}
+.linki-levo a{
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #757575;
+    text-decoration: none;
+}
+
+p{
+    position: absolute;
+    left: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: rgba(0,0,0,.54);
+    font-family: arial,sans-serif;
+    font-size: 15px;
+}
